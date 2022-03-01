@@ -117,7 +117,7 @@ Pod::Spec.new do |spec|
   #  the lib prefix of their name.
   #
 
-  spec.pod_target_xcconfig = { 'VALID_ARCHS' => 'x86_64 armv7 arm64' }
+  spec.pod_target_xcconfig = { 'VALID_ARCHS' => 'armv7' }
 
   spec.vendored_frameworks = 'HHDoctorVideo.framework'
 
