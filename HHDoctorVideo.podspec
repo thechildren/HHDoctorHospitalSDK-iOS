@@ -117,7 +117,7 @@ Pod::Spec.new do |spec|
   #  the lib prefix of their name.
   #
 
-  spec.ios.vendored_frameworks = 'HHDoctorVideo.framework'
+  spec.ios.vendored_frameworks = 'Classes/HHDoctorVideo.framework'
 
   # spec.framework  = "SomeFramework"
   # spec.frameworks = "SomeFramework", "AnotherFramework"

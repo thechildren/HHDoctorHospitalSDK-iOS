@@ -4,17 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.DS_Store</key>
-		<data>
-		dKrkRe2fiZnxH+0afcKXc1/vWns=
-		</data>
 		<key>Frameworks/Pods_HHDoctorVideo.framework/Info.plist</key>
 		<data>
-		qzBJR/UEHA0GqqUftKtFLZU0/iw=
+		IpGjeLvXLckh4hqEipQqDxJNS3k=
 		</data>
 		<key>Frameworks/Pods_HHDoctorVideo.framework/Pods_HHDoctorVideo</key>
 		<data>
-		oO03Rsw+OXQRoGB4JO4siILwS/k=
+		4ugY8K7IHHpf+XwgQNSJeb9ih38=
 		</data>
 		<key>Headers/H5ViewController.h</key>
 		<data>
@@ -32,29 +28,65 @@
 		<data>
 		nwobec7LxtqIlyqIeOM2VndLWic=
 		</data>
+		<key>Modules/HHDoctorVideo.swiftmodule/Project/arm.swiftsourceinfo</key>
+		<data>
+		kdtNy4ImTnx+hXTSSizmfzyQWAc=
+		</data>
 		<key>Modules/HHDoctorVideo.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		2PRq/RmPM8S5k7UECAtNLgNOMho=
+		bOjCLG/YGtr0XYZ5DRcKuv+XdU8=
 		</data>
 		<key>Modules/HHDoctorVideo.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		2PRq/RmPM8S5k7UECAtNLgNOMho=
+		bOjCLG/YGtr0XYZ5DRcKuv+XdU8=
+		</data>
+		<key>Modules/HHDoctorVideo.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
+		<data>
+		kdtNy4ImTnx+hXTSSizmfzyQWAc=
+		</data>
+		<key>Modules/HHDoctorVideo.swiftmodule/Project/armv7.swiftsourceinfo</key>
+		<data>
+		kdtNy4ImTnx+hXTSSizmfzyQWAc=
+		</data>
+		<key>Modules/HHDoctorVideo.swiftmodule/arm.swiftdoc</key>
+		<data>
+		HnUhos4Dc4zBPhFXya7mTfA8MBQ=
+		</data>
+		<key>Modules/HHDoctorVideo.swiftmodule/arm.swiftmodule</key>
+		<data>
+		SzqWzKhioziLnVBLe54AbCTKveg=
 		</data>
 		<key>Modules/HHDoctorVideo.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		VLHkX31XBw+mM2uoqxL00KtodeY=
+		ddl9NyyMQdsBMRkvOxF6BHgbQCQ=
 		</data>
 		<key>Modules/HHDoctorVideo.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Bt7vXLdMrTcGsBoBApzl91tH2xo=
+		JxK0Bium4984kq77Olj1LcMdi/A=
 		</data>
 		<key>Modules/HHDoctorVideo.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		VLHkX31XBw+mM2uoqxL00KtodeY=
+		ddl9NyyMQdsBMRkvOxF6BHgbQCQ=
 		</data>
 		<key>Modules/HHDoctorVideo.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		Bt7vXLdMrTcGsBoBApzl91tH2xo=
+		JxK0Bium4984kq77Olj1LcMdi/A=
+		</data>
+		<key>Modules/HHDoctorVideo.swiftmodule/armv7-apple-ios.swiftdoc</key>
+		<data>
+		HnUhos4Dc4zBPhFXya7mTfA8MBQ=
+		</data>
+		<key>Modules/HHDoctorVideo.swiftmodule/armv7-apple-ios.swiftmodule</key>
+		<data>
+		SzqWzKhioziLnVBLe54AbCTKveg=
+		</data>
+		<key>Modules/HHDoctorVideo.swiftmodule/armv7.swiftdoc</key>
+		<data>
+		HnUhos4Dc4zBPhFXya7mTfA8MBQ=
+		</data>
+		<key>Modules/HHDoctorVideo.swiftmodule/armv7.swiftmodule</key>
+		<data>
+		SzqWzKhioziLnVBLe54AbCTKveg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -103,22 +135,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qzBJR/UEHA0GqqUftKtFLZU0/iw=
+			IpGjeLvXLckh4hqEipQqDxJNS3k=
 			</data>
 			<key>hash2</key>
 			<data>
-			YLgb9sqJ0xp1a1QFEXOmPmSsoVszM4ewrGg9r+3SABM=
+			IOM/V5Pa86r1IYC25A71B/FX48CPOiQPc+m7LkbMK3o=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_HHDoctorVideo.framework/Pods_HHDoctorVideo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oO03Rsw+OXQRoGB4JO4siILwS/k=
+			4ugY8K7IHHpf+XwgQNSJeb9ih38=
 			</data>
 			<key>hash2</key>
 			<data>
-			4UBJKLuJDUIJ8UFAxk9XwKJrXgt3Tf7joi88AO74rAY=
+			bhLVgk3hVpxQ+Bp/8KrpW6wvs6FZuqb8izF59ljubVA=
 			</data>
 		</dict>
 		<key>Headers/H5ViewController.h</key>
@@ -154,70 +186,169 @@
 			z0sDxNZvV3WuGpNwxKv7i3PltPGrrMFKxID7Pp0Fek8=
 			</data>
 		</dict>
+		<key>Modules/HHDoctorVideo.swiftmodule/Project/arm.swiftsourceinfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kdtNy4ImTnx+hXTSSizmfzyQWAc=
+			</data>
+			<key>hash2</key>
+			<data>
+			KuSm+cakd5A8kUXNwKNo2icW4HSUSYzIqyOBt7TBwZ8=
+			</data>
+		</dict>
 		<key>Modules/HHDoctorVideo.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2PRq/RmPM8S5k7UECAtNLgNOMho=
+			bOjCLG/YGtr0XYZ5DRcKuv+XdU8=
 			</data>
 			<key>hash2</key>
 			<data>
-			JO3MsuQpSVk1b0GHstz7Z0Umcdl9ygVHXZCq17YiSFI=
+			feHHmOdUuPkJz3H9G1ioxDEbpsgeqE6Bli+jHm37204=
 			</data>
 		</dict>
 		<key>Modules/HHDoctorVideo.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2PRq/RmPM8S5k7UECAtNLgNOMho=
+			bOjCLG/YGtr0XYZ5DRcKuv+XdU8=
 			</data>
 			<key>hash2</key>
 			<data>
-			JO3MsuQpSVk1b0GHstz7Z0Umcdl9ygVHXZCq17YiSFI=
+			feHHmOdUuPkJz3H9G1ioxDEbpsgeqE6Bli+jHm37204=
+			</data>
+		</dict>
+		<key>Modules/HHDoctorVideo.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kdtNy4ImTnx+hXTSSizmfzyQWAc=
+			</data>
+			<key>hash2</key>
+			<data>
+			KuSm+cakd5A8kUXNwKNo2icW4HSUSYzIqyOBt7TBwZ8=
+			</data>
+		</dict>
+		<key>Modules/HHDoctorVideo.swiftmodule/Project/armv7.swiftsourceinfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kdtNy4ImTnx+hXTSSizmfzyQWAc=
+			</data>
+			<key>hash2</key>
+			<data>
+			KuSm+cakd5A8kUXNwKNo2icW4HSUSYzIqyOBt7TBwZ8=
+			</data>
+		</dict>
+		<key>Modules/HHDoctorVideo.swiftmodule/arm.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HnUhos4Dc4zBPhFXya7mTfA8MBQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			2a+gO7nJ9BMUW86GF830xEwOSaX4xyLLUQwDF9TW2D0=
+			</data>
+		</dict>
+		<key>Modules/HHDoctorVideo.swiftmodule/arm.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SzqWzKhioziLnVBLe54AbCTKveg=
+			</data>
+			<key>hash2</key>
+			<data>
+			PExCCXu2AMu2xA1F9FVx5iRFaBpu+Id8lUJXT9lcEVs=
 			</data>
 		</dict>
 		<key>Modules/HHDoctorVideo.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VLHkX31XBw+mM2uoqxL00KtodeY=
+			ddl9NyyMQdsBMRkvOxF6BHgbQCQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			KGqLopkHpo9fxlZximne4VkaeqOIsBQAkBAULeBw9ck=
+			HUCDC8kFkMW4J9ByXJFjPOlhci54NsHKpuSVBoDt2qY=
 			</data>
 		</dict>
 		<key>Modules/HHDoctorVideo.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Bt7vXLdMrTcGsBoBApzl91tH2xo=
+			JxK0Bium4984kq77Olj1LcMdi/A=
 			</data>
 			<key>hash2</key>
 			<data>
-			HxJAF9LMD2a8tF3XZuvdOQqmj30cFG8AtZxZBnAZZ8Y=
+			fI1zvme9oz0ntp9nvtpjO7gntAi9GhZ5GFR9govjVKs=
 			</data>
 		</dict>
 		<key>Modules/HHDoctorVideo.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VLHkX31XBw+mM2uoqxL00KtodeY=
+			ddl9NyyMQdsBMRkvOxF6BHgbQCQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			KGqLopkHpo9fxlZximne4VkaeqOIsBQAkBAULeBw9ck=
+			HUCDC8kFkMW4J9ByXJFjPOlhci54NsHKpuSVBoDt2qY=
 			</data>
 		</dict>
 		<key>Modules/HHDoctorVideo.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Bt7vXLdMrTcGsBoBApzl91tH2xo=
+			JxK0Bium4984kq77Olj1LcMdi/A=
 			</data>
 			<key>hash2</key>
 			<data>
-			HxJAF9LMD2a8tF3XZuvdOQqmj30cFG8AtZxZBnAZZ8Y=
+			fI1zvme9oz0ntp9nvtpjO7gntAi9GhZ5GFR9govjVKs=
+			</data>
+		</dict>
+		<key>Modules/HHDoctorVideo.swiftmodule/armv7-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HnUhos4Dc4zBPhFXya7mTfA8MBQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			2a+gO7nJ9BMUW86GF830xEwOSaX4xyLLUQwDF9TW2D0=
+			</data>
+		</dict>
+		<key>Modules/HHDoctorVideo.swiftmodule/armv7-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SzqWzKhioziLnVBLe54AbCTKveg=
+			</data>
+			<key>hash2</key>
+			<data>
+			PExCCXu2AMu2xA1F9FVx5iRFaBpu+Id8lUJXT9lcEVs=
+			</data>
+		</dict>
+		<key>Modules/HHDoctorVideo.swiftmodule/armv7.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HnUhos4Dc4zBPhFXya7mTfA8MBQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			2a+gO7nJ9BMUW86GF830xEwOSaX4xyLLUQwDF9TW2D0=
+			</data>
+		</dict>
+		<key>Modules/HHDoctorVideo.swiftmodule/armv7.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SzqWzKhioziLnVBLe54AbCTKveg=
+			</data>
+			<key>hash2</key>
+			<data>
+			PExCCXu2AMu2xA1F9FVx5iRFaBpu+Id8lUJXT9lcEVs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
