@@ -118,6 +118,11 @@ Pod::Spec.new do |spec|
   #  the lib prefix of their name.
   #
 
+  spec.pod_target_xcconfig = {
+        'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
+    }
+  spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+
   spec.ios.vendored_frameworks = 'HHDoctorVideo.framework'
 
   # spec.framework  = "SomeFramework"
