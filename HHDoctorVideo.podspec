@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "HHDoctorVideo"
-  spec.version      = "1.3.0"
+  spec.version      = "1.4.0"
   spec.summary      = "HHDoctorVideo-iOS版互联网医院"
 
   # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
   spec.description  = "互联网医院iOS版本测试，Objective- C版本"
 
   #  spec.homepage     = "https://gitee.com/neighourchild/hhdoctor-hospital-i-os"
-   spec.homepage     = "https://github.com/thechildren/HHDoctorHospitalSDK-iOS"
+   spec.homepage     = "https://gitee.com/neighourchild/hhdoctor-hospital-i-os"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -82,7 +82,7 @@ Pod::Spec.new do |spec|
 
   # spec.source       = { :git => "https://github.com/thechildren/HHDoctorHospital-iOS.git", :tag => "#{spec.version}" }
 
-  spec.source       = { :git => "https://github.com/thechildren/HHDoctorHospitalSDK-iOS.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://gitee.com/neighourchild/hhdoctor-hospital-i-os.git", :tag => "#{spec.version}" }
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
