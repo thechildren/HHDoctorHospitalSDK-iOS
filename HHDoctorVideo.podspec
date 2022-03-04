@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "HHDoctorVideo"
-  spec.version      = "1.2.5"
+  spec.version      = "1.2.6"
   spec.summary      = "HHDoctorVideo-iOS版互联网医院"
 
   # This description is used to generate tags and improve search results.
@@ -118,13 +118,10 @@ Pod::Spec.new do |spec|
   #  the lib prefix of their name.
   #
 
-  #  spec.pod_target_xcconfig = {'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'}
 
-  #  spec.pod_target_xcconfig = { 'VALID_ARCHS' => 'arm64' }
+  spec.pod_target_xcconfig = { 'VALID_ARCHS' => 'arm64' }
 
-  spec.pod_target_xcconfig = { 'VALID_ARCHS[sdk=Release-iphonesimulator*]' => 'arm64' }
-
-  #  spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => '' }
 
   spec.ios.vendored_frameworks = 'HHDoctorVideo.framework'
 
