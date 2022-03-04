@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "HHDoctorVideo"
-  spec.version      = "1.2.8"
+  spec.version      = "1.3.0"
   spec.summary      = "HHDoctorVideo-iOS版互联网医院"
 
   # This description is used to generate tags and improve search results.
@@ -129,18 +129,18 @@ Pod::Spec.new do |spec|
   # spec.frameworks = "SomeFramework", "AnotherFramework"
 
   # 依赖的第三方	
-  # spec.dependency 'JXBWebKit', '~> 1.3.0'
-  # spec.dependency 'AFNetworking', '~> 3.0'
-  # spec.dependency 'Masonry', '~> 1.0.1'
-  # spec.dependency 'MBProgressHUD', '~> 1.1.0'
-  # spec.dependency 'IQKeyboardManager'
-  # spec.dependency 'SVProgressHUD', '~> 2.2.5'
-  # spec.dependency 'FMDB', '~> 2.7.5'
-  # spec.dependency 'MJExtension', '~> 3.2.2'
-  # spec.dependency 'GPUImage', '~> 0.1.7'
-  # spec.dependency 'SDWebImage', '~>3.8'
-  # spec.dependency 'MJRefresh'
-  # spec.dependency 'HHDoctorSDK', :git => "http://code.hh-medic.com/shijian/HHDoctorSDK.ios.open.git",:branch => 'feature/swift5.2'
+  spec.dependency 'JXBWebKit', '~> 1.3.0'
+  spec.dependency 'AFNetworking', '~> 3.0'
+  spec.dependency 'Masonry', '~> 1.0.1'
+  spec.dependency 'MBProgressHUD', '~> 1.1.0'
+  spec.dependency 'IQKeyboardManager'
+  spec.dependency 'SVProgressHUD', '~> 2.2.5'
+  spec.dependency 'FMDB', '~> 2.7.5'
+  spec.dependency 'MJExtension', '~> 3.2.2'
+  spec.dependency 'GPUImage', '~> 0.1.7'
+  spec.dependency 'SDWebImage', '~>3.8'
+  spec.dependency 'MJRefresh'
+  spec.dependency 'HHDoctorSDK', :git => "http://code.hh-medic.com/shijian/HHDoctorSDK.ios.open.git",:branch => 'feature/swift5.2'
 
   # spec.library   = "iconv"
   # spec.libraries = "iconv", "xml2"
