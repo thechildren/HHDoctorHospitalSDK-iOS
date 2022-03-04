@@ -140,7 +140,7 @@ Pod::Spec.new do |spec|
   # spec.dependency 'GPUImage', '~> 0.1.7'
   # spec.dependency 'SDWebImage', '~>3.8'
   # spec.dependency 'MJRefresh'
-  spec.dependency 'HHDoctorSDK', :git => "http://code.hh-medic.com/shijian/HHDoctorSDK.ios.open.git",:branch => 'feature/swift5.2'
+  # spec.dependency 'HHDoctorSDK', :git => "http://code.hh-medic.com/shijian/HHDoctorSDK.ios.open.git",:branch => 'feature/swift5.2'
 
   # spec.library   = "iconv"
   # spec.libraries = "iconv", "xml2"
