@@ -141,8 +141,6 @@ Pod::Spec.new do |spec|
   spec.dependency 'SDWebImage', '3.8'
   spec.dependency 'MJRefresh'
 
-  spec.dependency 'HHDoctorSDK', {:git => "http://code.hh-medic.com/shijian/HHDoctorSDK.ios.open.git",:branch => 'feature/swift5.2'}
-
   # spec.library   = "iconv"
   # spec.libraries = "iconv", "xml2"
 
@@ -157,5 +155,19 @@ Pod::Spec.new do |spec|
 
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # spec.dependency "JSONKit", "~> 1.4"
+
+
+    spec.default_subspec = 'Base'
+
+    spec.dependency 'NIMSDK'
+
+    spec.subspec 'Base' do |base|
+        base.vendored_frameworks = 'HHDoctorSDK/*.framework'
+        base.resources = 'HHDoctorSDK/resources/*.bundle'
+
+        base.frameworks = 'SystemConfiguration', 'MobileCoreServices', 'AVFoundation', 'CoreTelephony', 'VideoToolbox', 'AudioToolbox', 'CoreMedia'
+        base.libraries = 'z', 'sqlite3.0', 'c++', 'resolv.9'
+    end
+
 
 end
