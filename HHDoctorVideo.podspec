@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "HHDoctorVideo"
-  spec.version      = "1.7.2"
+  spec.version      = "1.7.3"
   spec.summary      = "HHDoctorVideo-iOS版互联网医院"
 
   # This description is used to generate tags and improve search results.
@@ -141,7 +141,7 @@ Pod::Spec.new do |spec|
   spec.dependency 'SDWebImage', '3.8'
   spec.dependency 'MJRefresh'
 
-  # spec.dependency 'HHDoctorSDK', git => "http://code.hh-medic.com/shijian/HHDoctorSDK.ios.open.git",branch => 'feature/swift5.2'
+  spec.dependency 'HHDoctorSDK', git => "http://code.hh-medic.com/shijian/HHDoctorSDK.ios.open.git",branch => 'feature/swift5.2'
 
   # spec.library   = "iconv"
   # spec.libraries = "iconv", "xml2"
