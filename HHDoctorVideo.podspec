@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "HHDoctorVideo"
-  spec.version      = "1.8.0"
+  spec.version      = "1.8.1"
   spec.summary      = "HHDoctorVideo-iOS版互联网医院"
 
   # This description is used to generate tags and improve search results.
@@ -135,7 +135,7 @@ Pod::Spec.new do |spec|
   spec.dependency 'IQKeyboardManager'
   spec.dependency 'SVProgressHUD', '2.2.5'
   spec.dependency 'FMDB', '2.7.5'
-  # spec.dependency 'MJExtension', '3.2.2'
+  spec.dependency 'MJExtension', '3.2.2'
   spec.dependency 'GPUImage', '0.1.7'
   spec.dependency 'SDWebImage', '3.8'
   spec.dependency 'MJRefresh'
