@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "HHDoctorVideo"
-  spec.version      = "1.6.9"
+  spec.version      = "1.7.0"
   spec.summary      = "HHDoctorVideo-iOS版互联网医院"
 
   # This description is used to generate tags and improve search results.
@@ -129,7 +129,7 @@ Pod::Spec.new do |spec|
   # spec.frameworks = "SomeFramework", "AnotherFramework"
 
   # 依赖的第三方	
-  spec.dependency 'JXBWebKit'
+  spec.dependency 'JXBWebKit','1.3.0'
   # spec.dependency 'AFNetworking', '~> 3.0'
   # spec.dependency 'Masonry', '~> 1.0.1'
   # spec.dependency 'MBProgressHUD', '~> 1.1.0'
